@@ -11,12 +11,12 @@ System administrator junior
 * 🧠  I'm learning new programming languages
 
 <a href="https://www.twitter.com/lorenzo" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitter/follow/berna_engineer?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<img src="https://img.shields.io/twitter/follow/lorenzooricci?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 />
 </a>
 <a href="https://www.github.com/snorky105" target="_blank" rel="noreferrer">
 <img
-src="https://img.shields.io/github/followers/AntonioBerna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/CleverCode_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/snorky105?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/snorky105" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/CleverCode_?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
