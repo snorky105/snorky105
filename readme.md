@@ -45,7 +45,7 @@ src="https://img.shields.io/twitch/status/CleverCode_?logo=twitchsx&style=for-th
 
 <a href="https://www.github.com/snorky105"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=snorky105&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lorenzo Ricci's GitHub stats" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snorky105&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="AntonioBerna's GitHub Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snorky105&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Lorenzo Ricci's GitHub Top Languages"/>
 
 ### Support Me
 
