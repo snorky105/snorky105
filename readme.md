@@ -8,7 +8,6 @@ System administrator junior
 * 🌍  I'm based in Teramo
 * 🖥️  See my portfolio at [snorky](https://snorky105.github.io/MyPortfolio/)
 * ✉️  You can contact me at [lorenzoyzf@gmail.com](mailto:lorenzoyzf@gmail.com)
-* 🧠  I'm learning new programming languages
 
 <a href="https://www.twitter.com/lorenzo" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitter/follow/lorenzooricci?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
